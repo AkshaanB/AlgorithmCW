@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="530adb66-1552-4c8e-b95d-1711fc393eb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AlgorithmCW" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZCwVAd9kumwuJrjn3uRCRK9UOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ForTimeMeasurement" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NewApproach" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My Work\Syllabus\Algorithms\CW\Implmentation\src\ForTimeMeasurement" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaximumFlow (2)">
+    <configuration name="FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FordFulkerson" />
+      <module name="AlgorithmCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G" />
+      <module name="AlgorithmCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumFlow (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewApproach.MaximumFlow" />
+      <module name="AlgorithmCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewApproach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumFlow (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_2.MaximumFlow" />
+      <module name="AlgorithmCW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Code_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_1.MaximumFlow" />
+      <module name="AlgorithmCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumFlow (2)" />
+        <item itemvalue="Application.MaximumFlow" />
+        <item itemvalue="Application.MaximumFlow (1)" />
+        <item itemvalue="Application.FordFulkerson" />
+        <item itemvalue="Application.G" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Play/Book Store App/BookStoreApp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Play/play-samples-play-java-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java/Play framework/Projects/BookStore" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java/Play framework/play-samples-play-java-hello-world-tutorial" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="530adb66-1552-4c8e-b95d-1711fc393eb5" name="Default Changelist" comment="" />
+      <created>1584356404730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584356404730</updated>
+      <workItem from="1584356509548" duration="6668000" />
+      <workItem from="1584412712580" duration="11146000" />
+      <workItem from="1584498520695" duration="2222000" />
+      <workItem from="1584512697603" duration="15494000" />
+      <workItem from="1584600467454" duration="753000" />
+      <workItem from="1584673387562" duration="1218000" />
+      <workItem from="1584704013714" duration="775000" />
+      <workItem from="1584724916925" duration="1640000" />
+      <workItem from="1584768141496" duration="8918000" />
+      <workItem from="1584864825197" duration="9713000" />
+      <workItem from="1584956600780" duration="5353000" />
+      <workItem from="1584979700272" duration="1366000" />
+      <workItem from="1585056040308" duration="5055000" />
+      <workItem from="1585097499577" duration="13591000" />
+      <workItem from="1585135075735" duration="149000" />
+      <workItem from="1585191896889" duration="1175000" />
+      <workItem from="1585215672298" duration="1341000" />
+      <workItem from="1585225343622" duration="7045000" />
+      <workItem from="1585281817416" duration="10536000" />
+      <workItem from="1585341877043" duration="178000" />
+      <workItem from="1585361371619" duration="24361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585056273229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585056273229" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584512223245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1584512223245" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584516825274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1584516825274" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584542026486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584542026486" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1585413031247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585413031247" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1585413031247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585413031247" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1585413031247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585413031247" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1585413031247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585413031247" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1585395029128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585395029128" />
+    <state x="466" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1585361372573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585361372573" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-1" timestamp="1584514296837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1584514296837" />
+    <state x="209" y="33" key="new project wizard" timestamp="1585135094412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585135094412" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585097721297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585097721297" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584456559985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584456559985" />
+  </component>
+</project>
