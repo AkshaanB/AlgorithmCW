@@ -7,14 +7,13 @@ import java.util.*;
 
 /**
  *
- * @author Akshaan Bandara
+ * @author Dhanasekara Mudiyanselage Akshaan Dileesha Bandara
  * @UOW_ID/IIT_ID w1743055/2018597
  */
 
 public class MaximumFlow {
     private final int vertices;
     private ArrayList<Integer> visitedNode = new ArrayList<>();
-    private ArrayList<ArrayList<Integer>> allVisitedNodes = new ArrayList<ArrayList<Integer>>();
 
     public MaximumFlow(int vertices) {
         this.vertices = vertices;
@@ -60,7 +59,7 @@ public class MaximumFlow {
         while (breadthFirstSearch(residualGraph, source, sink, path)) {
             int pathFlow = Integer.MAX_VALUE;
             for (v = sink; v != source; v = path[v]) {
-//                System.out.println(v);
+                visitedNode.add(v);
                 u = path[v];
                 pathFlow = Math.min(pathFlow, residualGraph[u][v]);
             }
@@ -70,9 +69,10 @@ public class MaximumFlow {
                 residualGraph[v][u] += pathFlow;
             }
             maxFlow += pathFlow;
-
+            Collections.reverse(visitedNode);
+            System.out.println("Path: "+visitedNode+" Flow: "+pathFlow);
+            visitedNode.clear();
         }
-
         return maxFlow;
     }
 
@@ -87,8 +87,10 @@ public class MaximumFlow {
         ArrayList<Double> times = new ArrayList<>();
 
         try {
-            graph = matrix(filePath+"Data48x48.txt");
+            //**
+            graph = matrix(filePath+"Data6x6.txt");
             data = new Scanner(new File(filePath+"GeneralData.txt"));
+            //**
             while(data.hasNextInt()){
                 int num = data.nextInt();
                 generalData.add(num);
